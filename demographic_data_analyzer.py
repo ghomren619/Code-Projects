@@ -1,3 +1,10 @@
+# Author: Ghomren Victor Oghenetega
+# Date: 20-11-2024
+# Language used: Python
+# Description: To thoroughly analyse a 1994 adult data census extract
+# Modules used = Pandas as Numpy
+
+
 import pandas as pd
 import numpy as np
 
